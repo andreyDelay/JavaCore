@@ -1,6 +1,5 @@
 package main.java.com.andreyDelay.javacore.chapter18;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Spliterator;
