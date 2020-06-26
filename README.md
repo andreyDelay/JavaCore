@@ -1,2 +1,4 @@
-# javacore
-repository for learning JavaCore and writing some code, according a book "Java: The Complete Reference" Herbert Schildt
+# Repository for learning javacore
+
+In studying process the following book was used:<br/>
+![alt text](https://drive.google.com/file/d/1sgeJ2PObwXfau6ISgI7SFmqt51qh-PUl/view?usp=sharing)
