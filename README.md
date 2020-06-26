@@ -9,9 +9,9 @@ Book's name: __Java.__ **_The Complete Reference_** Ninth Edition
 ![alt text](src/main/java/com/andreyDelay/javacore/images/Schildt.jpg)
 
 ***
-###Chapter that already passed and all the exercises are done:
+### Chapter that already passed and all the exercises are done:
 
-1. ####Chapter №10
+1. #### Chapter №10
 
     * Exceptions' hierarchy
     * Try/catch with resources structure 
@@ -19,7 +19,9 @@ Book's name: __Java.__ **_The Complete Reference_** Ninth Edition
     * Custom exception classes<br/>
      ![alt text](src/main/java/com/andreyDelay/javacore/images/Exceptions-in-Java.png)
     ```java
-    import java.io.File;import java.io.FileInputStream;public class Main {
+    import java.io.File;import java.io.FileInputStream;
+   
+   public class Main {
        public static void main(String[] args){
    //Открытие ресурса в блоке finally 
              try(FileInputStream inputStream = 
@@ -34,6 +36,6 @@ Book's name: __Java.__ **_The Complete Reference_** Ninth Edition
        }
    }
     ```
-2. ####Chapter №13
+2. #### Chapter №13
 
     * 
