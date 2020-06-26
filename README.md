@@ -3,7 +3,7 @@
 
 In studying process the following book was used:<br/>
 Author: *__Herbert Schildt__* <br/>
-Book's name: __Java.__ **_The Complete Reference_** Ninth Edition
+Book's title: __Java.__ **_The Complete Reference_** Ninth Edition
 
 
 ![alt text](src/main/java/com/andreyDelay/javacore/images/Schildt.jpg)
@@ -71,3 +71,5 @@ Book's name: __Java.__ **_The Complete Reference_** Ninth Edition
            3. String - StringReader/Writer
        * it's decorator
            1. BufferedReader/Writer
+           
+![alt text](src/main/java/com/andreyDelay/javacore/images/IO.jpg)
